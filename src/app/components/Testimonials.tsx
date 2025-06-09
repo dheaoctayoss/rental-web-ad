@@ -2,22 +2,22 @@ export default function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: "Budi Santoso",
-      role: "Kontraktor",
+      name: "Ezra Mirael",
+      role: "Mahasiswa",
       content: "Pelayanan sangat memuaskan, alat-alat dalam kondisi prima dan harga kompetitif.",
       rating: 5
     },
     {
       id: 2,
-      name: "Ani Wijaya",
+      name: "Abraham Siregar",
       role: "Event Organizer",
       content: "Proses sewa mudah dan cepat. Alat datang tepat waktu sesuai kebutuhan event kami.",
       rating: 4
     },
     {
       id: 3,
-      name: "Rudi Hermawan",
-      role: "Pemilik Proyek",
+      name: "Dhea Octa",
+      role: "Anggota Gereja",
       content: "Sudah beberapa kali sewa di sini, selalu puas dengan kualitas alat dan pelayanannya.",
       rating: 5
     }

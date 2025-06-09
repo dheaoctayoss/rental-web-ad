@@ -3,7 +3,7 @@ import Link from 'next/link'
 export default function WhatsAppButton({ small = false }: { small?: boolean }) {
   return (
     <Link 
-      href="https://wa.me/6282274583689" 
+      href="https://wa.me/6281313891220" 
       target="_blank"
       className={`${small ? 'px-3 py-2 text-sm' : 'px-6 py-3'} bg-green-600 hover:bg-green-700 text-white font-medium rounded-lg flex items-center gap-2 transition`}
     >

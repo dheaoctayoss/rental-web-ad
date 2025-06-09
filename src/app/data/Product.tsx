@@ -12,9 +12,9 @@ export const products: Product[] = [
     {
         id: 2,
         name: "DJI Osmo Mobile 4",
-        description: "gimbal smartphone yang menawarkan keunggulan dalam stabilitas video, desain lipat yang portabel, dan berbagai fitur cerdas untuk menghasilkan video yang halus dan profesional",
+        description: "Gimbal smartphone yang menawarkan keunggulan dalam stabilitas video, desain lipat yang portabel, dan berbagai fitur cerdas untuk menghasilkan video yang halus dan profesional",
         price: "Rp 200.000/hari",
-        image: "dji_osmo_4.jpg",
+        image: "dji_osmo_4.png",
         category: "Stabilizer"
     }
 ]

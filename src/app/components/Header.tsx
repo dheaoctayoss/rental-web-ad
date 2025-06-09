@@ -5,7 +5,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white shadow-sm">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold text-primary-dark">
-          RentalAlat
+          Abradhe Rent
         </Link>
         
         <nav className="hidden md:flex space-x-8">

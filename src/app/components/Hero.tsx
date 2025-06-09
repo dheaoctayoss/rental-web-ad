@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="container mx-auto px-4 py-20 md:py-28">
         <div className="max-w-2xl">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Sewa Alat Profesional untuk Event Anda
+            Sewa HT & Alat Profesional untuk Event Anda
           </h1>
           <p className="text-lg text-gray-600 mb-8">
             Temukan berbagai alat berkualitas tinggi dengan harga terjangkau. Kami siap mendukung kesuksesan event Anda.
